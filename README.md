@@ -47,7 +47,7 @@ Steps to install SugarCRM with Nexmo SMS app
 
 1.  Visit the target Git repository using the [ URL ] (https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/package/sugarcrm_with_nexmo_sms0.5.zip).
 
-2.  Click on **Raw** as shown:
+2.  Click on **Raw** as shown, app's zip file will get downloaded.
 
 	<img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image19.png" width="300">
 
@@ -61,7 +61,7 @@ Steps to install SugarCRM with Nexmo SMS app
 
     <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image5.png" width="600">
 
-6.  Click on **Choose File** and select the app’s zip file from the **Package** folder of extracted repository.
+6.  Click on **Choose File** and select downloaded app’s zip. 
 
     <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image6.png" width="600">
 
