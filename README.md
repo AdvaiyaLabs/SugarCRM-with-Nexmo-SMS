@@ -46,7 +46,7 @@ Steps to install SugarCRM with Nexmo SMS
 1.  Visit the target Git repository using the URL &lt;Nexmo App Github URL&gt;.
 
 2.  Click on **Download ZIP** as shown in the below image:
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image3.png" width="400">
+    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image3.png" width="600">
 
 3.  Extract ZIP file.
 
@@ -54,37 +54,37 @@ Steps to install SugarCRM with Nexmo SMS
 
 5.  Navigate to the **Admin** section as shown in the image below:
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image4.png" width="400">
+    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image4.png" width="600">
 
 6.  Click on the **Module Loader** in the **Developer Tools** section.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image5.png" width="400">
+    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image5.png" width="600">
 
 7.  Click on **Choose File** and upload the module’s zip file.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image6.png" width="400">
+    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image6.png" width="600">
 
 8.  Click on **Instal**l and then click on **Commit** option.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image7.png" width="400">
+    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image7.png" width="600">
 
 9.  It will start installing the package.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image8.png" width="400">
+    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image8.png" width="600">
 
 10. On the top right, click on user’s Avatar and select the **Admin** option.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image4.png" width="400">
+    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image4.png" width="600">
 
 11. You can see a new section at the bottom as **Nexmo SMS settings**.
 
 12. Click on **Configuration Settings.**
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image9.png" width="400">
+    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image9.png" width="600">
 
 13. On configuration settings page, provide your Nexmo API keys (Key and Secret) and the threshold amount.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image10.png" width="400">
+    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image10.png" width="600">
 
 14. Enable SMS capability in your platform by checking the **Enable SMS** checkbox.
 
@@ -105,19 +105,19 @@ User will receive SMS when an opportunity is created or a lead is converted into
 
 1.  Navigate to the opportunity from top menu and click on the create button.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image11.png" width="400">
+    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image11.png" width="600">
 
 2.  Type opportunity name and other details, and click on save.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image12.png" width="400">
+    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image12.png" width="600">
 
 3.  This opportunity will be shown in the opportunity list. Click on it.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image13.png" width="400">
+    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image13.png" width="600">
 
 4.  Click on **Edit** and scroll down to add revenue line items and provide relevant details.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image14.png" width="400">
+    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image14.png" width="600">
 
 5.  Click on **Save** button.
 
@@ -141,25 +141,25 @@ User will receive SMS when an opportunity is created or a lead is converted into
 
 1.  Click on the lead you want to convert.
 
-> <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image15.png" width="400">
+> <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image15.png" width="600">
 
 1.  Click on **Edit** &gt;&gt; **Convert**.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image16.png" width="400">
+    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image16.png" width="600">
 
 2.  Provide your associated contact, account and opportunity details and click on **Save and Convert** button
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image17.png" width="400">
+    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image17.png" width="600">
 
 <!-- -->
 
 1.  This opportunity will be shown in the opportunity list. Click on it.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image13.png" width="400">
+    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image13.png" width="600">
 
 2.  Click on edit and scroll down to add revenue line items and provide relevant details.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image14.png" width="400">
+    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image14.png" width="600">
 
 3.  Click on **Save** button.
 
@@ -183,4 +183,4 @@ Appendix
 
 -   Key and Secret will display in the top bar as shown in the below image:
 
-> <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image18.png" width="400">
+> <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image18.png" width="600">
