@@ -14,7 +14,7 @@ Use case
 
 2.  Sales Executive updates the budget amount of any opportunity, the app will send an SMS to the respective Sales Manager if the opportunity budget value is above the threshold amount.
 
-    SMS that will be sent to the Sales Manager: **“An opportunity &lt;&lt;Title&gt;&gt; for &lt;&lt;Account name&gt;&gt; has been updated with probable value &lt; Budget value&gt;.” **
+    SMS that will be sent to the Sales Manager: **“An opportunity &lt;&lt;Title&gt;&gt; for &lt;&lt;Account&gt;&gt; has been updated with probable value &lt; Budget value&gt;.”**
 
 Prerequisites 
 ==============
@@ -40,8 +40,8 @@ Features
 
 -   Enable and disable SMS functionality
 
-Steps to install SugarCRM with Nexmo SMS
-========================================
+Steps to install SugarCRM with Nexmo SMS app
+============================================ 
 
 1.  Visit the target Git repository using the URL &lt;Nexmo App Github URL&gt;.
 
@@ -94,8 +94,8 @@ Steps to install SugarCRM with Nexmo SMS
 
 <span id="_Toc432770621" class="anchor"></span>
 
-Steps to use SugarCRM with Nexmo SMS
-====================================
+Steps to use SugarCRM with Nexmo SMS app
+========================================
 
 User will receive SMS when an opportunity is created or a lead is converted into an opportunity.
 
