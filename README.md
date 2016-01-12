@@ -99,7 +99,7 @@ Steps to use SugarCRM with Nexmo SMS
 
 User will receive SMS when an opportunity is created or a lead is converted into an opportunity.
 
-# A.  When creating an opportunity: #
+## A.  When creating an opportunity: ##
 
 <!-- -->
 
@@ -135,7 +135,7 @@ User will receive SMS when an opportunity is created or a lead is converted into
 
 <!-- -->
 
-# B.  When converting a lead into an opportunity.#
+## B.  When converting a lead into an opportunity.##
 
 
 1.  Click on the lead you want to convert.
