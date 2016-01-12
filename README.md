@@ -103,35 +103,35 @@ User will receive SMS when an opportunity is created or a lead is converted into
 
 <!-- -->
 
-1.  Navigate to the opportunity from top menu and click on the create button.
+	1.  Navigate to the opportunity from top menu and click on the create button.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image11.png" width="600">
+		<img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image11.png" width="600">
 
-2.  Type opportunity name and other details, and click on save.
+	2.  Type opportunity name and other details, and click on save.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image12.png" width="600">
+		<img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image12.png" width="600">
 
-3.  This opportunity will be shown in the opportunity list. Click on it.
+	3.  This opportunity will be shown in the opportunity list. Click on it.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image13.png" width="600">
+		<img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image13.png" width="600">
 
-4.  Click on **Edit** and scroll down to add revenue line items and provide relevant details.
+	4.  Click on **Edit** and scroll down to add revenue line items and provide relevant details.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image14.png" width="600">
+		<img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image14.png" width="600">
 
-5.  Click on **Save** button.
+	5.  Click on **Save** button.
 
-6.  Make sure your profile’s “Reports to” field is not empty as the app sends SMS to the user in your “Reports to” field.
+	6.  Make sure your profile’s “Reports to” field is not empty as the app sends SMS to the user in your “Reports to” field.
 
-7.  Your “Reports to” field’s user will get an SMS in the following format.
+	7.  Your “Reports to” field’s user will get an SMS in the following format.
 
-    Sales Executive adds a new opportunity or qualifies a lead into an opportunity:
+		Sales Executive adds a new opportunity or qualifies a lead into an opportunity:
 
-    “**A new opportunity &lt;&lt; *Opportunity name* &gt;&gt; for &lt;&lt;*Account*&gt;&gt; with probable value &lt;&lt;*Budget value*&gt; has been added**.”
+		“**A new opportunity &lt;&lt; *Opportunity name* &gt;&gt; for &lt;&lt;*Account*&gt;&gt; with probable value &lt;&lt;*Budget value*&gt; has been added**.”
 
-    Sales Executive updates an existing opportunity:
+		Sales Executive updates an existing opportunity:
 
-    “**An opportunity &lt;&lt; *Opportunity name* &gt;&gt; for &lt;&lt;*Account*&gt;&gt; has been updated with probable value &lt;&lt;*Budget value*&gt;**.”
+		“**An opportunity &lt;&lt; *Opportunity name* &gt;&gt; for &lt;&lt;*Account*&gt;&gt; has been updated with probable value &lt;&lt;*Budget value*&gt;**.”
 
 <!-- -->
 
@@ -139,35 +139,35 @@ User will receive SMS when an opportunity is created or a lead is converted into
 
 <!-- -->
 
-1.  Click on the lead you want to convert.
+	1.  Click on the lead you want to convert.
 
-> <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image15.png" width="600">
+		<img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image15.png" width="600">
 
-1.  Click on **Edit** &gt;&gt; **Convert**.
+	2.  Click on **Edit** &gt;&gt; **Convert**.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image16.png" width="600">
+		<img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image16.png" width="600">
 
-2.  Provide your associated contact, account and opportunity details and click on **Save and Convert** button
+	3.  Provide your associated contact, account and opportunity details and click on **Save and Convert** button
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image17.png" width="600">
+		<img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image17.png" width="600">
 
 <!-- -->
 
-1.  This opportunity will be shown in the opportunity list. Click on it.
+	4.  This opportunity will be shown in the opportunity list. Click on it.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image13.png" width="600">
+		<img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image13.png" width="600">
 
-2.  Click on edit and scroll down to add revenue line items and provide relevant details.
+	5.  Click on edit and scroll down to add revenue line items and provide relevant details.
 
-    <img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image14.png" width="600">
+		<img src="https://github.com/AdvaiyaLabs/SugarCRM-with-Nexmo-SMS/blob/master/docs/image14.png" width="600">
 
-3.  Click on **Save** button.
+	6.  Click on **Save** button.
 
-4.  Make sure your profile’s “Reports to” field is not empty as the app sends SMS to the user in your “Reports to” field.
+	7.  Make sure your profile’s “Reports to” field is not empty as the app sends SMS to the user in your “Reports to” field.
 
-5.  Your “Reports to” field’s user will get an SMS in the following format:
+	8.  Your “Reports to” field’s user will get an SMS in the following format:
 
-    “**A new opportunity &lt;&lt;*Opportunity name*&gt;&gt; for &lt;&lt;*Account*&gt;&gt; with probable value &lt;&lt;*Budget value*&gt; has been added**.”
+		“**A new opportunity &lt;&lt;*Opportunity name*&gt;&gt; for &lt;&lt;*Account*&gt;&gt; with probable value &lt;&lt;*Budget value*&gt; has been added**.”
 
 <span id="_Toc432770622" class="anchor"></span>
 
